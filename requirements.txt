@@ -1,0 +1,2 @@
+git+https://github.com/geospatial-jeff/cognition-pipeline.git
+git+https://github.com/geospatial-jeff/satellite-czml-propagator.git
